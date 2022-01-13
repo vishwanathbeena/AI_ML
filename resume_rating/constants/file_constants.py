@@ -1,1 +1,0 @@
-UPLOAD_FOLDER = 'D:\\Learning\\flask'
